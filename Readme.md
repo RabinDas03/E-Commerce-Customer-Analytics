@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Customer Analytics
+E-Commerce Customer Analytics
 
 ## 📊 Power BI Data Analytics Project
 
